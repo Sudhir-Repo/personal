@@ -10,5 +10,10 @@ uuuuu
 jjj
 kf
 yyyyyyyyyyyyyyyyyyyyy
+<<<<<<< HEAD
 dd
 dd
+=======
+wwwww
+f
+>>>>>>> 85ed84f482416db8b2aa8cd96de1672cc2675e68
