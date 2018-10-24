@@ -7,9 +7,8 @@ asss
 hhhhhhhhhhhhhhhhhhh
 GYU
 uuuuu
-<<<<<<< HEAD
 jjj
 kf
-=======
 yyyyyyyyyyyyyyyyyyyyy
->>>>>>> 30ae12ee57a94c736d7fc1b50459b07d87492786
+dd
+dd
